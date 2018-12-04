@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <title>TEST_3</title>
+</head>
+<body>
+    <div class="main">
+        <header>
+            <section class="nav-bar">
+                <div class="logo">ROKIN-NEWS</div>
+                <ul class="navigation">
+                    <li class="nav-categories">Категории</li>
+                    <li class="nav-forum">Форум</li>
+                    <li class="nav-shop">Магазин</li>
+                    <li class="nav-articles">Статьи</li>
+                    <li class="nav-contact">Контакты</li>
+                </ul>
+                <div class="banner_1"></div>
+            </section>
+            <section class="breaking-news">
+                <div class="breaking-news-title">Срочные новости:</div>
+                <div class="breaking-news-str_1"></div>
+                <div class="breaking-news-str_2"></div>
+                <div class="social-buttons">
+                    <i class="fas fa-search"></i>
+                    <i class="fab fa-facebook"></i>
+                    <i class="fab fa-vk"></i>
+                    <i class="fab fa-twitter-square"></i>
+                    <i class="fab fa-instagram"></i>
+                </div>
+            </section>
+        </header>  
+        <section class="main-content">
+            <section class="news-columns">
+                <div class="news-columns-1">
+                    <div class="news-columns-1-title">
+                        <h2>Маленькая ошибка, которая обходится фермеру $3000 в год</h2>
+                    </div>
+                </div>
+                <div class="news-columns-2">
+                    <div class="news-columns-2-title">
+                        <h2>Вы постоянно немеете от смущения в компании?</h2>
+                    </div>
+                </div>
+                <div class="news-columns-3">
+                    <div class="news-columns-3-title">
+                        <h2>Почему некоторая пища «взрывается» в вашем желудке</h2>
+                    </div>
+                </div>
+            </section>
+        </section>     
+    </div>
+</body>
+</html>
